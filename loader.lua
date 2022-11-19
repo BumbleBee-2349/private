@@ -1,6 +1,6 @@
 getgenv().Discord = "r6SFq4yDAP"
 
-local User, Repo, Folder = "uzu01", "public", "games"
+local User, Repo, Folder = "BumbleBee-2349", "private", "games"
 local ScriptFormat = "https://raw.githubusercontent.com/%s/%s/main/%s/%s/script.lua"
 
 local GameTable = {
