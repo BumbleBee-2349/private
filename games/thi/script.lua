@@ -334,7 +334,7 @@ end
 Load()
 
 local Linoria = loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/public/main/ui/linoria"))()
-local Window = Linoria:CreateWindow({Title = "Treasure Hunt Islands | Uzu", Center = true, AutoShow = true})
+local Window = Linoria:CreateWindow({Title = "Treasure Hunt Islands | Inferior Hub", Center = true, AutoShow = true})
 
 local MainTab = Window:AddTab("Main")
 
